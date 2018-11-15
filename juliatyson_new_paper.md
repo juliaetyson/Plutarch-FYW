@@ -2,25 +2,27 @@
 
 ## Introduction
 
-Plutarch's collection of essays *On the Excellence of Women* is where The Women of Melos originates from. This is a working originally written in Ancient Greek in the 2nd Century BCE. The version of the text that I  worked with was translated by Frank Cole Babbitt, published in 1931. [^babbitt]. I am publishing this edition of the "Prologue" to Plutarch's *On the Excellence of The Women of Melos* under an open license, with documentation.
+One essay in Plutarch's collection of essays *On the Excellence of Women* is "The Women of Melos." This is a work originally written in Ancient Greek in the 2nd Century BCE. The version of the text that I  worked with was translated by Frank Cole Babbitt, published in 1931. [^babbitt]. I am publishing this edition of the "Prologue" to Plutarch's *On the Excellence of The Women of Melos* under an open license, with documentation.
 
 [Babbitt]: Plutarch, and Frank Cole Babbitt. *Plutarch's Moralia*, Vol. 3, 172a-263c ()
 
 #Plutarch
 
-Plutarch or Lucius Mestrius Plutarchus was a Greek-Roman writer and biographer during the 2nd Century AD. He was born in  Greece but later became a Roman citizen and was born in 45 AD and died in 127 AD. He wrote a group of essays called “The Excellence of Women”. The Women Of Melos is a short story included in the writing. He is most known for his writings *Parallel Lives* and the *Moralia*. His essay *On the Excellence of Women* is about brave, courageous, and honorable actions by women. Plutarch dedicates it to his friend Klea.
+Plutarch or Lucius Mestrius Plutarchus was a Greek-Roman writer and biographer during the 2nd Century AD. He was born in 45 AD in  Greece but later became a Roman citizen; he died in 127 AD. He wrote a group of essays called *The Excellence of Women*. "The Women Of Melos" is one of then. He is best known for his works *Parallel Lives* and the *Moralia*. His essay *On the Excellence of Women,* part of the *Moralia*, is about brave, courageous, and honorable actions by women. Plutarch dedicates it to his friend Klea.
 
 
 ## The Prologue
-In the short essay of The Women of Melos the Melians landed at Caria. Caria was a district of Southwestern Antolia. It is now the southwest of modern Turkey. It is known as the Caria region located in Asia Minor. Ancient Asia Minor is a location region that is located in parts of southwestern Asia including both modern Turkey and the Armenian highland.
 
-The Mediterranean, Black, and Aegean seas boarder Asia Minor. The Mediterranean Sea by the South, The Black Sea by the North, and The Aegean Sea by the West. Caria was a very Hellenized district consisting of mountains in the center and Greek cities along its shore. Hellenized is referring to making Greek. The Carians were united by their religion.
 
-The Melians were from the volcanic island of Melos. Melos was a small Island in the Aegean Sea between the Persian Empire and Greece. Melos is included in the Cyclades, which are a group of islands located southeast from the mainland Greece in the Aegean Sea.
+In the short essay of The Women of Melos the Melians landed at Caria. Caria was a district of Southwestern Antolia. It is now the southwest of modern Turkey. It is known as the Caria region located in Asia Minor which is a region in southwestern Asia including both modern Turkey and the Armenian highland.
 
-The Melians were specialized in making weapons and also tools. Their creations were found in other islands like Crete and Cyprus and all the way to Egypt This reveals that they thrived in exportation. Melos prospered during the Bronze Age.
+Caria was a very "Hellenized" district consisting of mountains in the center and Greek cities along its shore. That is, the people of Caria adopted Greek customs and language.
 
-It is the island from where the world famous marble statue of Aphrodite originates. Another name for the statue is Venus de Milo or The Aphrodite of Melos which was discovered in 1820. Aphrodite was her Greek name and Venus was her Roman name. The sculptor of the Aphrodite statue is Alexandros of Antioch who lived during the first to second century BC. The statue was created during the Hellenistic age. Aphrodite is the goddess of beauty and love and is a symbol for beauty even when her arms are missing from the statue.
+The Melians were from the volcanic island of Melos. Melos was a small Island in the Aegean Sea between the Persian Empire and Greece. Melos is one of the Cyclades, which are a group of islands located southeast from the mainland Greece in the Aegean Sea.
+
+The Melians were specialized in making weapons and also tools. Their creations were found in other islands like Crete and Cyprus and all the way to Egypt. Melos prospered during the Bronze Age.
+
+Melos is the island from where the world famous marble statue of Aphrodite originates. Another name for the statue is Venus de Milo or The Aphrodite of Melos which was discovered in 1820. Aphrodite was her Greek name and Venus was her Roman name. The sculptor of the Aphrodite statue is Alexandros of Antioch who lived during the first to second century BC. The statue was created during the Hellenistic age. Aphrodite is the goddess of beauty and love and is a symbol for beauty even when her arms are missing from the statue.
 
 The colony of Greeks from Melos were led by Nymphaeus who was handsome and also their leader. They left Melos in search of a larger country to settle in. Wherever they landed when they were forced to stop sailing is where they were to stay. The Melians sailed until they arrived at Caria.
 
@@ -28,7 +30,7 @@ Their ship was destroyed by a storm and out of pity the Carians gave the Melians
 
 The Carians decided that they no longer wanted the Melians there and conspired against them. They made a plan to invite the Melians to a banquet and kill them. Caphene, A Carian maiden fell in love with Nymphaeus so when she heard of the scheme, she couldn’t let her love die. Caphene revealed her peoples treachery to Nymphaeus.
 
-When the Carians invited the Melians Nymphaeus told them that it was a custom for them to go to dinner with women. Upon which the Carians gladly told them to bring the women with them. Nymphaeus told the men to come to the banquet unarmed in casual attire while the women should carry a sword in their garments.
+When the Carians invited the Melians Nymphaeus told them that it was a custom for them to go to dinner with women. Upon hearing this the Carians gladly told them to bring the women with them. Nymphaeus told the men to come to the banquet unarmed in casual attire while the women should carry a sword in their garments.
 
 They arrived at the feast prepared for the fight. In the middle of the meal the Carians gave their signal to strike. At this time all of the Melian women simultaneously retrieved their swords and handed them to their husband and male relatives.
 
